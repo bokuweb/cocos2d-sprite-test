@@ -1,0 +1,3 @@
+## TimelineFXで生成したスプライトシートをecnhant.jsで再生するサンプル
+
+TimelineFXで生成したスプライトシートをecnhant.jsで再生する
